@@ -1,6 +1,3 @@
 streamlit
 PyPDF2
 matplotlib
-sentence-transformers
-scikit-learn
-numpy
